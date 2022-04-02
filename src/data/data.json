@@ -37,34 +37,14 @@
         }
     ],
     "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/partners/utt.png",
+            "text": "À la fois université et grande école, l'UTT s'adosse à ses 8 équipes de recherche pour proposer des formations couvrant tout le spectre universitaire : Licence, Master, Ingénieur et Doctorat, des formations courtes professionnalisantes (Diplômes d'Université), des programmes de Mastère spécialisé®, de la VAE et des certifications en langues. Le parcours d'ingénieur en 5 ans, habilité par la Cti, est individualisé dès la première année et permet à chaque étudiant d'adapter sa formation à son projet professionnel.",
+            "name": "Université de Technologie de Troyes - UTT"
         },
         {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/partners/fondation-utt.jpg",
+            "text": "L'objectif de la Fondation UTT est de récolter des fonds pour les étudiants, la recherche et le territoire. Nos dix axes de financement sont présents pour guider vos dons selon vos sensibilités. Elle est au service du rayonnement de l'UTT et souhaite développer les partenariats existants avec les entreprises et en susciter de nouveaux.",
+            "name": "Fondation UTT"
         }
     ],
     "Team": [{
@@ -88,11 +68,11 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
+        "address": "Université de Technologie de Troyes, 12 rue Marie Curie 10430 Troyes",
+        "phone": "0123456789",
+        "email": "hackutt@utt.fr",
+        "instagram": "https://instagram.com/h4ckutt",
+        "linkedin": "https://www.linkedin.com/company/hackutt/",
         "youtube": "youtube.com"
     },
     "Features": [{

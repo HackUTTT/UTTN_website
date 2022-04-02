@@ -2,6 +2,17 @@
 A showcase website about the UTTN event.
 Fork of [this repository](https://github.com/wonderfullandingpage/mylandingpage).
 
+# How to setup your Dev environment
+Build the docker image using:
+
+`docker build -t uttn:latest Dockerfile`
+
+Run your container using the following command (allowing you to not rebuild the container for every change thanks to the shared folders feature)
+
+`docker run --name uttn -d -p 3000:3000 -v /YOUR/PATH/TO/THE/REPO/public:/home/node/app/public -v /YOUR/PATH/TO/THE/REPO/src:/home/node/app/src uttn_website:latest`
+
+You can now access to your dev app directly from your browser by taping : http://localhost:3000.
+
 # Wonderful Landing Page Template
 
 ### <a href="https://wonderfullandingpage.github.io/mylandingpage/">LIVE DEMO</a> 

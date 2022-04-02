@@ -1,57 +1,40 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "UTTN : UTT x Télécom Nancy",
+        "paragraph": "Le premier évènement inter-école de cyber-sécurité organisé par HackUTT !"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "L'UTTN est le premier évènement inter-école de cybersécurité organisé par le club de cybersécurité de l'UTT, HackUTT. Le but est de rassembler les étudiants de la région Grand-Est passionnés par ce domaine, qu'ils soient novices ou plus expérimentés, autour d'une compétition de type CTF (= Capture The Flag) sur une durée de 24 heures. En plus de ceci, des conférences seront tenues par différents acteurs (professeurs, doctorants, professionnels d'entreprises) sur un large panel de sujets passionnants autour de la sécurité informatique.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Apprendre de manière interactive",
+            "Se mesurer aux autres membres de la communauté cyber",
+            "Rencontrer de nouvelles personnes partageant les mêmes passions",
+            "Agrandir son réseau"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Rencontrer des étudiants passionnés",
+            "Promouvoir votre entreprise auprès des étudiants",
+            "Aider des jeunes à approfondir leurs parcours",
+            "Echanger sur votre parcours"
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-person-chalkboard",
+            "name": "Des conférences",
+            "text": "Tenu par des professionnels et des professeurs d'Université, des conférences seront tenues durant toute la durée de l'évènement."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-laptop-code",
+            "name": "Challenge",
+            "text": "La compétition organisée, ou CTF, aura lieu durant 24 heures non-stop dans les locaux de l'UTT. Ce sera l'occasion pour nos étudiants de confronter leurs connaissances à la réalité."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-handshake",
+            "name": "Un espace de rencontre",
+            "text": "Etudiants et intervenants auront la possibilité d'échanger sur l'aire de restauration/repos prévue à cet effet."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -113,24 +96,24 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-graduation-cap",
+            "title": "Ecole d'ingénieur accrédité CTI",
+            "text": "Une école d'ingénieur accessible BAC+2 spécialisé en Informatique"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-circle-nodes",
+            "title": "Réseau IMT",
+            "text": "Télécom Nancy fait partie du réseau reconnue des IMT (Institut Mines Télécom)"
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-chalkboard-user",
+            "title": "5 spécialisations à partir de la 2nde année",
+            "text": "IA et Masses de données, Ingénierie Logiciel, Internet Systems &amp; Security, Logiciel embarqué et Systèmes d'Information d'Entreprise"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-shield-halved",
+            "title": "HackinTN",
+            "text": "Très actif au niveau associatif, les étudiants tiennent également un club de cybersécurité : HackinTN !"
         }
     ]
 }

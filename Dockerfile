@@ -4,8 +4,10 @@ WORKDIR /home/node/app
 
 COPY . /home/node/app
 
-RUN yarn
+RUN yarn && \
+yarn build &&\
+yarn global add serve
 
 EXPOSE 3000
 
-CMD ["yarn", "start"]
+CMD ["serve", "-s", "build"]

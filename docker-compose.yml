@@ -1,0 +1,22 @@
+version: "3.9"
+  networks:
+    traefik:
+       name: traefik
+       external: true
+
+services:
+  uttn:
+    image: hackutt/uttn
+    build: .
+    container_name: uttn_website
+    restart: unless-stopped
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.uttn.rule=Host(`uttn.hackutt.uttnetgroup.fr`)
+      - traefik.http.routers.uttn.entryPoints=websecure
+      - traefik.http.routers.uttn.tls=true
+      - traefik.http.routers.uttn.tls.certresolver=letsencrypt
+      - traefik.http.routers.uttn.service=uttn
+      - traefik.http.services.uttn.loadbalancer.server.port=3000
+    networks:
+      - traefik

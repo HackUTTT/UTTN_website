@@ -70,7 +70,7 @@ hr {
 	transition: all 0.8s;
 }
 #menu.navbar-default {
-	background-color: #fff;
+	background-color: #7289d9;
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
@@ -78,13 +78,13 @@ hr {
 	font-family: 'Raleway', sans-serif;
 	font-size: 24px;
 	font-weight: 700;
-	color: #333;
+	color: #fff;
 	text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	color: #555;
+	color: #fff;
 	font-size: 15px;
 	font-weight: 400;
 	padding: 8px 2px;
@@ -98,7 +98,8 @@ hr {
 	bottom: -1px;
 	width: 0;
 	height: 2px;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	/* background: linear-gradient(to right, #6372ff 10%, #fff 100%); */
+	background: linear-gradient(to right, #fff 0%, #fff 100%);
 	content: "";
 	transition: width 0.2s;
 }
@@ -115,7 +116,8 @@ hr {
 	bottom: -1px !important;
 	width: 100% !important;
 	height: 2px !important;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
+	/* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important; */
+	background: linear-gradient(to right, #fff 0%, #fff 100%) !important;
 	content: "" !important;
 	transition: width 0.2s !important;
 }
@@ -394,9 +396,9 @@ header .intro-text {
 }
 .testimonial-image, .testimonial-image img {
 	display: block;
-	width: 64px;
+	width: 128px;
 	height: 64px;
-	border-radius: 50%;
+	/*border-radius: 50%;*/
 }
 .testimonial-content {
 	position: relative;

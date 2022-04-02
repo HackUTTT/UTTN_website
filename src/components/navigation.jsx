@@ -27,7 +27,7 @@ export const Navigation = (props) => {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#features' className='page-scroll'>
-                Ecole Partenaire
+                Ecole Part.
               </a>
             </li>
             <li>
@@ -37,20 +37,19 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#services' className='page-scroll'>
-                Au Programme
-              </a>
-            </li>
-            <li>
-              <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Programme
               </a>
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Testimonials
+                Partenaires
               </a>
             </li>
-            
+            <li>
+              <a href='#contact' className='page-scroll'>
+                Devenir Partenaire
+              </a>
+            </li>
           </ul>
         </div>
       </div>

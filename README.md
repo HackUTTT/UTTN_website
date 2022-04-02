@@ -3,6 +3,8 @@ A showcase website about the UTTN event.
 Fork of [this repository](https://github.com/wonderfullandingpage/mylandingpage).
 
 # How to setup your Dev environment
+Rename the current Dockerfile as "Dockerfile.prod" and remove the ".dev" extension of the "Dockerfile.dev" file.
+
 Build the docker image using:
 
 `docker build -t uttn:latest Dockerfile`
@@ -12,6 +14,12 @@ Run your container using the following command (allowing you to not rebuild the 
 `docker run --name uttn -d -p 3000:3000 -v /YOUR/PATH/TO/THE/REPO/public:/home/node/app/public -v /YOUR/PATH/TO/THE/REPO/src:/home/node/app/src uttn_website:latest`
 
 You can now access to your dev app directly from your browser by taping : http://localhost:3000.
+
+
+# How to deploy on the server
+If you're still using the traefik reverse-proxy, you only have to type :
+
+`docker-compose up -d`
 
 # Wonderful Landing Page Template
 

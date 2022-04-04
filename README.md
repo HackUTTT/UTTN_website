@@ -7,7 +7,7 @@ Rename the current Dockerfile as "Dockerfile.prod" and remove the ".dev" extensi
 
 Build the docker image using:
 
-`docker build -t uttn:latest Dockerfile`
+`docker build -t uttn:latest .`
 
 Run your container using the following command (allowing you to not rebuild the container for every change thanks to the shared folders feature)
 

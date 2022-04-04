@@ -6,7 +6,7 @@
 
     },
     "About": {
-        "paragraph": "L'UTTN est le premier évènement inter-école de cybersécurité organisé par le club de cybersécurité de l'UTT, HackUTT. Le but est de rassembler les étudiants de la région Grand-Est passionnés par ce domaine, qu'ils soient novices ou plus expérimentés, autour d'une compétition de type CTF (= Capture The Flag) sur une durée de 24 heures. En plus de ceci, des conférences seront tenues par différents acteurs (professeurs, doctorants, professionnels d'entreprises) sur un large panel de sujets passionnants autour de la sécurité informatique.",
+        "paragraph": "L'UTTN est le premier évènement inter-école de cybersécurité organisé par le club de cybersécurité de l'UTT, HackUTT. Le but est de rassembler les étudiants de la région Grand-Est passionnés par ce domaine, qu'ils soient novices ou plus expérimentés, autour d'une compétition de type CTF (= Capture The Flag) sur une durée de 24 heures. Des conférences seront tenues par différents acteurs (professeurs, doctorants, professionnels d'entreprises) sur un large panel de sujets passionnants autour de la sécurité informatique.",
         "Why": [
             "Apprendre de manière interactive",
             "Se mesurer aux autres membres de la communauté cyber",
@@ -16,19 +16,19 @@
         "Why2": [
             "Rencontrer des étudiants passionnés",
             "Promouvoir votre entreprise auprès des étudiants",
-            "Aider des jeunes à approfondir leurs parcours",
+            "Aider des futurs ingénieurs à approfondir leurs connaissances",
             "Echanger sur votre parcours"
         ]
     },
     "Services": [{
             "icon": "fa fa-person-chalkboard",
-            "name": "Des conférences",
-            "text": "Tenu par des professionnels et des professeurs d'Université, des conférences seront tenues durant toute la durée de l'évènement."
+            "name": "Conférences",
+            "text": "Tenues par des professionnels et des professeurs d'Université, des conférences seront données durant toute la durée de l'évènement."
         },
         {
             "icon": "fa fa-laptop-code",
-            "name": "Challenge",
-            "text": "La compétition organisée, ou CTF, aura lieu durant 24 heures non-stop dans les locaux de l'UTT. Ce sera l'occasion pour nos étudiants de confronter leurs connaissances à la réalité."
+            "name": "Challenges",
+            "text": "La compétition, ou CTF, aura lieu durant 24 heures non-stop dans les locaux de l'UTT. Ce sera l'occasion pour nos étudiants de confronter leurs connaissances."
         },
         {
             "icon": "fa fa-handshake",
@@ -88,7 +88,7 @@
         {
             "icon": "fa fa-chalkboard-user",
             "title": "5 spécialisations à partir de la 2nde année",
-            "text": "IA et Masses de données, Ingénierie Logiciel, Internet Systems &amp; Security, Logiciel embarqué et Systèmes d'Information d'Entreprise"
+            "text": "IA et Masses de données, Ingénierie Logiciel, Internet Systems & Security, Logiciel embarqué et Systèmes d'Information d'Entreprise"
         },
         {
             "icon": "fa fa-shield-halved",

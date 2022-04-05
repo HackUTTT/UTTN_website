@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "UTTN : UTT x Télécom Nancy",
+        "title": "UTTN: UTT x Télécom Nancy",
         "paragraph": "Le premier évènement inter-école de cyber-sécurité organisé par HackUTT !"
 
     },
@@ -20,7 +20,7 @@
             "Echanger sur votre parcours"
         ]
     },
-    "Services": [{
+    "Programme": [{
             "icon": "fa fa-person-chalkboard",
             "name": "Conférences",
             "text": "Tenues par des professionnels et des professeurs d'Université, des conférences seront données durant toute la durée de l'évènement."
@@ -36,7 +36,7 @@
             "text": "Etudiants et intervenants auront la possibilité d'échanger sur l'aire de restauration/repos prévue à cet effet."
         }
     ],
-    "Testimonials": [{
+    "Partenaires": [{
             "img": "img/partners/utt.png",
             "text": "À la fois université et grande école, l'UTT s'adosse à ses 8 équipes de recherche pour proposer des formations couvrant tout le spectre universitaire : Licence, Master, Ingénieur et Doctorat, des formations courtes professionnalisantes (Diplômes d'Université), des programmes de Mastère spécialisé®, de la VAE et des certifications en langues. Le parcours d'ingénieur en 5 ans, habilité par la Cti, est individualisé dès la première année et permet à chaque étudiant d'adapter sa formation à son projet professionnel.",
             "name": "Université de Technologie de Troyes - UTT"
@@ -75,7 +75,7 @@
         "linkedin": "https://www.linkedin.com/company/hackutt/",
         "youtube": "youtube.com"
     },
-    "Features": [{
+    "PrezEcole": [{
             "icon": "fa fa-graduation-cap",
             "title": "Ecole d'ingénieur accrédité CTI",
             "text": "Une école d'ingénieur accessible BAC+2 spécialisé en Informatique"

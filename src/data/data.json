@@ -76,24 +76,24 @@
         "youtube": "youtube.com"
     },
     "PrezEcole": [{
-            "icon": "fa fa-graduation-cap",
-            "title": "Ecole d'ingénieur accrédité CTI",
-            "text": "Une école d'ingénieur accessible BAC+2 spécialisé en Informatique"
-        },
-        {
-            "icon": "fa fa-circle-nodes",
-            "title": "Réseau IMT",
-            "text": "Télécom Nancy fait partie du réseau reconnue des IMT (Institut Mines Télécom)"
-        },
-        {
-            "icon": "fa fa-chalkboard-user",
-            "title": "5 spécialisations à partir de la 2nde année",
-            "text": "IA et Masses de données, Ingénierie Logiciel, Internet Systems & Security, Logiciel embarqué et Systèmes d'Information d'Entreprise"
-        },
-        {
             "icon": "fa fa-shield-halved",
-            "title": "HackinTN",
-            "text": "Très actif au niveau associatif, les étudiants tiennent également un club de cybersécurité : HackinTN !"
+            "title": "Un club de cybersécurité",
+            "text": "Regroupe des étudiants motivés autour de la sécurité informatique."
+        },
+        {
+            "icon": "fa fa-bullseye",
+            "title": "Des challenges",
+            "text": "L'équipe participe activement à des évènements CTF (Capture The Flag) reconnus mais également en interne."
+        },
+        {
+            "icon": "fa fa-people-group",
+            "title": "Une communauté soudée",
+            "text": "L'objectif principal ? S'entraider, partager des connaissances autour d'une passion commune mais surtout : du fun !"
+        },
+        {
+            "icon": "fa fa-graduation-cap",
+            "title": "Telecom Nancy",
+            "text": "Ecole d'Ingénieur faisant partie du réseau IMT, elle prodigue des formations en Informatique et notamment des parcours en cybersécurité."
         }
     ]
 }

@@ -98,7 +98,7 @@ export const Contact = (props) => {
   <div id='success'></div> */}
                 <a href='https://www.patreon.com/hackutt'>
                 <button type='submit' className='btn btn-custom btn-lg'>
-                  Faire un Don
+                  Soutenir le projet
                 </button></a>
               {/* </form> */}
             </div>

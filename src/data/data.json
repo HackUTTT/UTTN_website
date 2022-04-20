@@ -78,12 +78,12 @@
     "PrezEcole": [{
             "icon": "fa fa-shield-halved",
             "title": "Un club de cybersécurité",
-            "text": "Regroupe des étudiants motivés autour de la sécurité informatique."
+            "text": "Regroupe des étudiants motivés autour de la sécurité informatique et tient des workshops hebdomadaires sur différents thème de cybersécurité."
         },
         {
             "icon": "fa fa-bullseye",
             "title": "Des challenges",
-            "text": "L'équipe participe activement à des évènements CTF (Capture The Flag) reconnus mais également en interne."
+            "text": "L'équipe participe activement à des compétitions CTF (Capture The Flag) aussi bien en interne qu'en externe."
         },
         {
             "icon": "fa fa-people-group",
@@ -93,7 +93,7 @@
         {
             "icon": "fa fa-graduation-cap",
             "title": "Telecom Nancy",
-            "text": "Ecole d'Ingénieur faisant partie du réseau IMT, elle prodigue des formations en Informatique et notamment des parcours en cybersécurité."
+            "text": "Ecole d'Ingénieur faisant partie du réseau IMT, elle délivre des formations en 5 ans dans le domaine de l'Informatique : IA, logiciels embarqués et cybersécurité notamment."
         }
     ]
 }

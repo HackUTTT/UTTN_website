@@ -41,16 +41,18 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>Devenir Partenaire</h2>
+                <h2>Soutenir l'évènement</h2>
                 <p>
-                  Pour devenir partenaire, rien de plus simple : contactez-nous à l'adresse mail indiquer dans le champs ci-dessous. <br />
-                  Lorsque vous devenez partenaire, vous pouvez au choix :
+                  <br />
+                  Vous aimez le projet et vous souhaitez nous aider ? Vous voulez y participer activement ? Donner des conférences ? <br />
+                  N'hésitez plus et devenez un de nos partenaires ! <br /><br />
+                  Pour se faire, rien de plus simple : envoyez nous un e-mail en nous indiquant comment vous souhaitez nous aider et/ou rendez-vous sur notre page tipee pour nous soutenir financièrement en cliquant sur le bouton juste en-dessous !
                 </p>
-                  <ul>
+                  {/* <ul>
                     <li>    - Contribuer uniquement au coût de l'organisation de l'évènement en effectuant un don (Agents de sécurité, Nourriture, ...) sur la plateforme ci-dessous.</li>
                     <li>    - Contribuer financièrement au coût de l'évènement et demander un créneau de conférence où vous pourrez présenter votre entreprise et un sujet de cybersécurité de votre choix (à définir avec nous pour éviter les redondances).</li>
-                  </ul>
-                <p>Dans les deux cas, vous apparaitrez sur la liste de nos sponsors (modalités à définir par mail).</p>
+                  </ul> */}
+                {/* <p>Dans les deux cas, vous apparaitrez sur la liste de nos sponsors (modalités à définir par mail).</p> */}
               </div>
               {/* <form name='sentMessage' validate onSubmit={windows.location.href = "https://www.patreon.com/hackutt"}>
                 <div className='row'>
@@ -96,7 +98,7 @@ export const Contact = (props) => {
                   <p className='help-block text-danger'></p>
                 </div>
   <div id='success'></div> */}
-                <a href='https://www.patreon.com/hackutt'>
+                <a href='https://www.patreon.com/hackutt' target="_blank">
                 <button type='submit' className='btn btn-custom btn-lg'>
                   Soutenir le projet
                 </button></a>
